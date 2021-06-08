@@ -2,7 +2,7 @@
 Using Canonical Huffman instead of normal Huffman
 By: Nguyen Thai Son - TSU - Tomsk
 
-CanonicalHuffman.cpp: work as a .hpp file
+CanonicalHuffman.cpp: work as a .hpp file\n
 main.cpp: drive program
 Please read Instruction-Explaination.doc file
 
